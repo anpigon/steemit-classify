@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "dclassify": "^1.1.2"
+    "axios": "^0.18.0",
+    "dclassify": "^1.1.2",
+    "request": "^2.88.0"
   }
 }
